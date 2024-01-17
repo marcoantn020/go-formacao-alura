@@ -1,0 +1,9 @@
+-- create table students(
+--     id serial primary key,
+--     name varchar,
+--     CPF varchar,
+--     RG varchar
+-- );
+--
+-- INSERT INTO students(name, CPF,RG) VALUES
+-- ('Marco Antonio', '12345678909', '264793204');
